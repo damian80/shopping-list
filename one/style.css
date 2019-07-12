@@ -1,0 +1,17 @@
+html {
+    background-color:lightsalmon;
+    color:white;
+}
+
+input {
+   border-radius: 10px;
+}
+button {
+   border-radius: 10px;
+   outline: none;
+}
+button:hover {
+    cursor: pointer;
+    background-color: rgb(22, 130, 172);
+    color:white;
+}
